@@ -4,5 +4,5 @@
   "quest": "обучение программированию",
   "count": "all",
   "yandex": "ivan.kkkfgjd@ya.ru 369852147",
-  "getEmail": "http://vando.company/contacts-organization/getEmail.php?url="
+  "getEmail": "static/getEmail.php?url="
 }

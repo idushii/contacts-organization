@@ -2,6 +2,7 @@
   <div class="row">
     <div class="col s12">
       <div class="card-panel">
+        <h5 class="card-title">Поиск организаций. Яндекс версия.</h5>
         <div class="row">
           <div class="input-field col s10">
             <input placeholder="" id="Quest" type="text" v-model="config.quest" @keyup.enter="startSeach" autofocus :disabled="isSearch">
